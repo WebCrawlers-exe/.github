@@ -1,24 +1,13 @@
-
-<!--
-## Hi there 👋
-
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-## This is team [WebCrawlers](https://github.com/WebCrawlers-exe) 👨‍💻
+## This is [WebCrawlers](https://github.com/WebCrawlers-exe) 👨‍💻
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75159757/195903485-b698b0bf-eca3-42b9-83c3-0ba0b23ee339.png" alt="Web Crawlers Logo">
 </p>
+<h3 align="center">Web Crawlers is a team of driven and dedicated students working towards making technology more accessible.</h3>
 <hr>
+<h5 align="center">📌 Visit our latest project <a href="https://webcrawlers.tech">ResearcHaven</a> - SIH 2022 Winning Project.</h5>
+<h4 align="center">We ❤️ open source development.</h4>
 
-### 📌 Visit our latest project [ResearcHaven](https://webcrawlers.tech)
+
+
 
